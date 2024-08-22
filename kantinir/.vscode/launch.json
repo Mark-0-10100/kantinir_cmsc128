@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "kantinir_mobile_app",
+            "cwd": "kantinir_mobile_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "kantinir_mobile_app (profile mode)",
+            "cwd": "kantinir_mobile_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "kantinir_mobile_app (release mode)",
+            "cwd": "kantinir_mobile_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "food_and_housing",
+            "cwd": "kantinir_mobile_app\\lib\\from_team\\food_and_housing",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "food_and_housing (profile mode)",
+            "cwd": "kantinir_mobile_app\\lib\\from_team\\food_and_housing",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "food_and_housing (release mode)",
+            "cwd": "kantinir_mobile_app\\lib\\from_team\\food_and_housing",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
